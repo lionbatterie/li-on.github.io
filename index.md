@@ -1,7 +1,7 @@
 
 
 
-![logo](assets/images/esquisse logo 1.PNG)
+![logo](assets/images/logo li-on.png.PNG)
 
 
 
