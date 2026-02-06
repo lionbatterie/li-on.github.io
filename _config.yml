@@ -1,0 +1,11 @@
+title: LI/ON
+description: Solutions industrielles de réparation, régénération et reconditionnement de batteries
+theme: minima
+
+header_pages:
+  - index.md
+  - solution.md
+  - activites.md
+  - impact.md
+  - vision.md
+  - contact.md
