@@ -1,6 +1,4 @@
----
-title: Notre solution
----
+
 
 # Notre solution
 
