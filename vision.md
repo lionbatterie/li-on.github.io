@@ -1,6 +1,4 @@
----
-title: Vision
----
+
 
 # Vision
 
