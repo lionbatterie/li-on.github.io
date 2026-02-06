@@ -1,6 +1,5 @@
 
-
-# LI/ON
+![logo](assets/images/esquisse logo 1.PNG)
 
 LI/ON est un projet industriel dédié à la réparation, la régénération et le reconditionnement de batteries professionnelles.
 
