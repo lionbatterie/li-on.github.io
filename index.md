@@ -10,3 +10,4 @@ Notre objectif est de prolonger la durée de vie des batteries existantes, de r�
 
 [Découvrir notre solution](solution.md)  
 [Nous contacter](contact.md)
+[Découvrir nos activités](activites.md)
